@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+  body { height:  100vh; }
+
+/*DASHBOARD CELULAR*/
+
+.sidenav
+{
+  font-family: Bebas Neue;
+}
+
+#localizacao-cel, #catalogos-cel, #redessociais-cel, #contato-cel, #lojafisica-cel, #sitevendas-cel
+{
+  font-size: 150%;
+  margin-top: 5%;
+}
+
+#localizacao-cel
+{
+  margin-top: 15%;
+}
+
+/*DASHBOARD CELULAR FINAL*/
+
+/*DASHBOARD COMPUTADOR*/
+
+.dashboard
+{
+  background-color: #373535;
+}
+
+.estante25-logo
+{
+  font-family: Bebas Neue;
+  font-size: 220%;
+}
+
+#localizacao, #catalogos, #redessociais, #contato, #lojafisica, #sitevendas
+{
+  font-family: Bebas Neue;
+  font-size: 130%;
+}
+
+/*DASHBOARD COMPUTADOR FINAL*/
+
+.titulo-home{
+  font-family: bebas neue;
+  position: absolute;
+  margin-top: 40vh;
+  color: white;
+}
+
+/*SEÇÃO 1*/
+
+
+/*os quadrados brancos*/
+.white, .capa
+{
+  /* superior | direita | inferior | esquerda */
+  margin: 10% 10% 10% 10%;
+  padding: 0.1% 2% 7% 2%;
+}
+
+/*título dos quadrados brancos*/
+.white h1
+{
+  text-align: center;
+  font-size: 1.7em;
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+/*texto dos quadrados brancos*/
+.white p
+{
+  text-align: center;
+  color:#262626;
+  font-size: 1.3em;
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+#paragrafo{
+  text-align: justify;
+}
+
+/*SEÇÃO 2*/
+
+.titulo-localizazao, .titulo-catalogo, .titulo-contato, .titulo-redessociais, .titulo-sitedevendas, .titulo-lojafisica
+{
+  color: WHITE;
+  font-family: 'Bebas Neue';
+  padding: 0.001%;
+}
+
+#locali{
+  font-size: 200%;
+}
+
+.teste{
+  height: 500%;
+  background-color: purple
+}
+
+.endereco
+{
+  font-size: 700%;
+}
+
+.container{
+  font-family: bebas neue;
+
+}
+
+#tel, #hor, #ema{
+  font-family: bebas neue;
+
+}
+
+/*Responsividade computador*/
+
+/*computador 1280x800*/
+/*computador 1280x800 final*/
+
+/*computador 1366x768*/
+/*computador 1366x768 final*/
+
+/*computador 1920x1080*/
+/*computador 1920x1080 final*/
+
+/*Responsividade computador final*/
+
+/*----------------------------------------------------------------------------------------*/
+
+/*Responsividade celular*/
+
+/*celular 360x680*/
+/*celular 360x680 final*/
+
+/*celular 375x667*/
+/*celular 375x667 final*/
+
+/*celular 414x896*/
+/*celular 414x896 final*/
+
+/*Responsividade celular final*/
