@@ -114,6 +114,22 @@
 
 }
 
+.botao-catalogo{
+  margin-bottom: 5%;
+}
+
+.contato-titulo2{
+  color: black;
+  }
+
+.contato-texto{
+  color: #424242;
+}
+
+.locali{
+  font-family: bebas neue;
+  color: #424242;
+}
 /*Responsividade computador*/
 
 /*computador 1280x800*/
