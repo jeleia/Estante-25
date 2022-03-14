@@ -60,6 +60,12 @@
   padding: 0.1% 2% 7% 2%;
 }
 
+.ccapa
+{
+  /* superior | direita | inferior | esquerda */
+  margin: 10%;
+}
+
 /*título dos quadrados brancos*/
 .white h1
 {
